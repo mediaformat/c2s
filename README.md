@@ -2,17 +2,26 @@
 An ActivityPub client (PWA)
 
 ## Features
-- [x] Login via OAuth (RFC8414)
+- [x] Login via OAuth ([RFC7591](https://datatracker.ietf.org/doc/html/rfc7591) & [RFC8414](https://datatracker.ietf.org/doc/html/rfc8414))
 - [X] Fetch from Inbox (constructs a home timeline)
 - [X] Fetch from SharedInbox (constructs a local/federated timeline)
 - [x] Post to Outbox (public posts)
 - [x] (Temporarily) Supports a generic proxy server for fetching remote Actors, Activities
+- [ ] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)
 - [ ] ...Stay tuned!
 
 ## Tested with
 - [x] Pleroma
 - [ ] FedBox (testing in progress)
-- [ ] Streams
+- [ ] Streams (testing in progress)
+- [ ] Epicyon (testing in progress)
 - [ ] Onepage.pub 
-- [ ] Epicyon
-- [ ] WordPress (not yet implemented)
+- [ ] WordPress (support announced)
+
+## Tracking Support
+| Software    | RFC7591 | RFC8414 | CIMD | proxyURL |
+| :---------- | :-----: | :-----: | :--: | :------: | 
+| Pleroma     |  ☑      |  x      | -    | [1](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
+| FedBox      |  -      |  -      | -    | -        |
+| Epicyon     |  -      |  -      | -    | -        |
+| Onepage.pub |  -      |  -      | -    | -        |

@@ -12,6 +12,7 @@ An ActivityPub client (PWA)
 ## Tested with
 - [x] Pleroma
 - [ ] FedBox (testing in progress)
+- [ ] Streams
 - [ ] Onepage.pub 
 - [ ] Epicyon
 - [ ] WordPress (not yet implemented)

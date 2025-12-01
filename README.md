@@ -1,10 +1,10 @@
 # c2s
-An ActivityPub client (PWA)
+A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 
 ## Features
 - [x] Login via OAuth ([RFC7591](https://datatracker.ietf.org/doc/html/rfc7591) & [RFC8414](https://datatracker.ietf.org/doc/html/rfc8414))
-- [X] Fetch from Inbox (constructs a home timeline)
-- [X] Fetch from SharedInbox (constructs a local/federated timeline)
+- [X] Fetch from Inbox
+- [X] Fetch from SharedInbox
 - [x] Post to Outbox
 - [x] (Temporarily) Supports a custom proxy server for fetching remote Actors, Activities, Objects
 - [ ] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)

@@ -5,8 +5,8 @@ An ActivityPub client (PWA)
 - [x] Login via OAuth ([RFC7591](https://datatracker.ietf.org/doc/html/rfc7591) & [RFC8414](https://datatracker.ietf.org/doc/html/rfc8414))
 - [X] Fetch from Inbox (constructs a home timeline)
 - [X] Fetch from SharedInbox (constructs a local/federated timeline)
-- [x] Post to Outbox (public posts)
-- [x] (Temporarily) Supports a generic proxy server for fetching remote Actors, Activities
+- [x] Post to Outbox
+- [x] (Temporarily) Supports a custom proxy server for fetching remote Actors, Activities, Objects
 - [ ] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)
 - [ ] ...Stay tuned!
 

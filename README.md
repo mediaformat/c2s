@@ -1,4 +1,4 @@
-# c2s
+# c2s-pwa
 A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 
 ## Features

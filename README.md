@@ -14,7 +14,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 - [x] Pleroma
 - [ ] FedBox (testing in progress)
 - [ ] Streams (testing in progress)
-- [ ] Epicyon (testing in progress)
+- [x] Epicyon ([not currently supporting OAuth](https://gitlab.com/bashrc2/epicyon/-/issues/68))
 - [ ] Onepage.pub 
 - [ ] WordPress (support announced)
 
@@ -23,7 +23,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | :---------- | :-----: | :-----: | :--: | :------: | 
 | Pleroma     |  ☑      |  x      | x    | [1](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
 | FedBox      |  -      |  -      | -    | -        |
-| Epicyon     |  x      |  x      | -    | -        |
+| Epicyon     |  x      |  x      | x    | -        |
 | Onepage.pub |  -      |  -      | -    | -        |
 
 ## Implementation Report

@@ -18,10 +18,14 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 - [ ] Onepage.pub 
 - [ ] WordPress (support announced)
 
-## Tracking Support
+## Tracking Support 
 | Software    | RFC7591 | RFC8414 | CIMD | proxyURL |
 | :---------- | :-----: | :-----: | :--: | :------: | 
-| Pleroma     |  ☑      |  x      | -    | [1](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
+| Pleroma     |  ☑      |  x      | x    | [1](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
 | FedBox      |  -      |  -      | -    | -        |
-| Epicyon     |  -      |  -      | -    | -        |
+| Epicyon     |  x      |  x      | -    | -        |
 | Onepage.pub |  -      |  -      | -    | -        |
+
+## Implementation Report
+Official, historic report (last updated 2021)
+https://activitypub.rocks/implementation-report/

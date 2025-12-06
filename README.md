@@ -15,6 +15,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 - [ ] FedBox (testing in progress)
 - [x] Epicyon ([not currently supporting OAuth](https://gitlab.com/bashrc2/epicyon/-/issues/68))
 - [ ] Onepage.pub
+- [ ] Bonfire
 - [ ] Bovine
 - [ ] Streams
 - [ ] WordPress (support announced)
@@ -26,6 +27,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | FedBox      |  -      |  -      | -    | -        |
 | Epicyon     |  x      |  x      | x    | -        |
 | Onepage.pub |  -      |  -      | -    | -        |
+| Bonfire     |  -      |  -      | -    | -        |
 | Bovine      |  -      |  -      | -    | -        |
 | streams     |  -      |  -      | -    | -        |
 

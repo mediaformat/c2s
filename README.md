@@ -2,7 +2,7 @@
 A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 
 ## Features
-- [x] Login via OAuth ([RFC7591](https://datatracker.ietf.org/doc/html/rfc7591) & [RFC8414](https://datatracker.ietf.org/doc/html/rfc8414))
+- [x] Login via OAuth ([RFC7591](https://datatracker.ietf.org/doc/html/rfc7591), [RFC8414](https://datatracker.ietf.org/doc/html/rfc8414), Actor Endpoints)
 - [X] Fetch from Inbox
 - [X] Fetch from SharedInbox
 - [x] Post to Outbox
@@ -10,26 +10,21 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 - [ ] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)
 - [ ] ...Stay tuned!
 
-## Tested with
-- [x] Pleroma
-- [ ] FedBox (testing in progress)
-- [x] Epicyon ([not currently supporting OAuth](https://gitlab.com/bashrc2/epicyon/-/issues/68))
-- [ ] Onepage.pub
-- [ ] Bonfire
-- [ ] Bovine
-- [ ] Streams
-- [ ] WordPress (support announced)
-
 ## Tracking Support 
-| Software    | RFC7591 | RFC8414 | CIMD | proxyURL |
-| :---------- | :-----: | :-----: | :--: | :------: | 
-| Pleroma     |  ☑      |  x      | x    | [1](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
-| FedBox      |  -      |  -      | -    | -        |
-| Epicyon     |  x      |  x      | x    | -        |
-| Onepage.pub |  -      |  -      | -    | -        |
-| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  -      |  -      | -    | ☑        |
-| Bovine      |  -      |  -      | -    | -        |
-| streams     |  -      |  -      | -    | -        |
+`☑` supported,
+`x` unsupported,
+`-` untested
+
+| Software    | RFC7591 | RFC8414 | CIMD | Actor endpoints | proxyURL |
+| :---------- | :-----: | :-----: | :--: | :-------------: | :------: | 
+| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  x      | x    | ☑               | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
+| [FedBox](https://github.com/go-ap/fedbox)      |  -      |  -      | -    | -        | -        |
+| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  -      |  -      | -    | ☑        | ☑        |
+| [(streams)](https://codeberg.org/streams/streams)     |  ☑      |  ☑      | -    | ☑        | -        |
+| [Onepage.pub](https://github.com/evanp/onepage.pub) |  -      |  -      | -    | -        | -        |
+
+## Circlebuilder's Delightful extensive c2s support list
+https://codeberg.org/fediverse/delightful-fediverse-experience/issues/130
 
 ## Implementation Report
 Official, historic report (last updated 2021)

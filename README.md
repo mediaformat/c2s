@@ -27,7 +27,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | FedBox      |  -      |  -      | -    | -        |
 | Epicyon     |  x      |  x      | x    | -        |
 | Onepage.pub |  -      |  -      | -    | -        |
-| Bonfire     |  -      |  -      | -    | -        |
+| https://github.com/bonfire-networks/bonfire-app/issues/917     |  -      |  -      | -    | ☑        |
 | Bovine      |  -      |  -      | -    | -        |
 | streams     |  -      |  -      | -    | -        |
 

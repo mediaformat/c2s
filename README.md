@@ -19,7 +19,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | :---------- | :-----: | :-----: | :--: | :-------------: | :------: | 
 | [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  x      | x    | ☑               | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        |
 | [FedBox](https://github.com/go-ap/fedbox)      |  -      |  -      | -    | -        | -        |
-| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  -      |  -      | -    | ☑        | ☑        |
+| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑        | -        |
 | [(streams)](https://codeberg.org/streams/streams)     |  ☑      |  ☑      | -    | ☑        | -        |
 | [Onepage.pub](https://github.com/evanp/onepage.pub) |  -      |  -      | -    | -        | -        |
 

@@ -6,7 +6,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 - [X] Fetch from Inbox
 - [X] Fetch from SharedInbox
 - [x] Post to Outbox
-- [x] (Temporarily) Supports a custom proxy server for fetching remote Actors, Activities, Objects
+- [x] Fetch remote `Object` via [proxyURL](https://www.w3.org/TR/activitypub/#proxyUrl)
 - [ ] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)
 - [ ] ...Stay tuned!
 

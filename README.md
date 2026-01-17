@@ -12,12 +12,13 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 
 ## Tracking Support 
 `☑` supported,
+`~` partial support,
 `x` unsupported,
 `-` untested
 
 | Software    | RFC7591 | RFC8414 | CIMD | Actor endpoints | proxyURL | sharedInbox |
 | :---------- | :-----: | :-----: | :--: | :-------------: | :------: | :---------: |
-| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | x    | ☑               | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
+| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | x    | [~](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)               | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
 | [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      | -    | -        | -        | - |
 | [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑        | -        | - |
 | [(streams)](https://codeberg.org/streams/streams)     |  ☑      |  ☑      | -    | ☑        | -        | - |

@@ -18,7 +18,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 
 | Software    | RFC7591 | RFC8414 | CORS | Actor endpoints | proxyURL | sharedInbox |
 | :---------- | :-----: | :-----: | :--: | :-------------: | :------: | :---------: |
-| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | x    | [~](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)               | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
+| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | [~](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)    | ☑        | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
 | [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      | -    | -        | -        | - |
 | [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑        | -        | - |
 | [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      | [x](https://github.com/friendica/friendica/issues/15404)    | ☑        | -        | - |

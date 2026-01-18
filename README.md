@@ -16,12 +16,12 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 `x` unsupported,
 `-` untested
 
-| Software    | RFC7591 | RFC8414 | CIMD | Actor endpoints | proxyURL | sharedInbox |
+| Software    | RFC7591 | RFC8414 | CORS | Actor endpoints | proxyURL | sharedInbox |
 | :---------- | :-----: | :-----: | :--: | :-------------: | :------: | :---------: |
 | [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | x    | [~](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)               | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)        | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
 | [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      | -    | -        | -        | - |
 | [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑        | -        | - |
-| [(streams)](https://codeberg.org/streams/streams)     |  ☑      |  ☑      | -    | ☑        | -        | - |
+| [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      | [x](https://github.com/friendica/friendica/issues/15404)    | ☑        | -        | - |
 | [Onepage.pub](https://github.com/evanp/onepage.pub) |  -      |  -      | -    | -        | -        | - |
 
 ## Circlebuilder's Delightful extensive c2s support list

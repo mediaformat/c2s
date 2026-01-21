@@ -16,13 +16,13 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 `x` unsupported,
 `-` untested
 
-| Software    | RFC7591 | RFC8414 | CORS | Actor endpoints | proxyURL | sharedInbox |
-| :---------- | :-----: | :-----: | :--: | :-------------: | :------: | :---------: |
-| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | [~](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)    | ☑        |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)       | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
-| [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      | ~    | ~        | [x](https://todo.sr.ht/~mariusor/go-activitypub/409)        | [x](https://lists.sr.ht/~mariusor/go-activitypub-dev/%3C13D93DB4-A3C9-4451-8E6A-78158C93A198@mediaformat.org%3E) |
-| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑        | -        | - |
-| [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      | [x](https://github.com/friendica/friendica/issues/15404)    | ☑        | -        | - |
-| [Onepage.pub](https://github.com/evanp/onepage.pub) |  -      |  -      | -    | -        | -        | - |
+| Software    | RFC7591 | RFC8414 | CORS | Actor oauth endpoints | proxyURL | sharedInbox |
+| :---------- | :-----: | :-----: | :--: | :-------------------: | :------: | :---------: |
+| [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)      | [~](https://git.pleroma.social/pleroma/pleroma/-/issues/3395)    | ☑              |  [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3382)       | [x](https://git.pleroma.social/pleroma/pleroma/-/issues/3384) |
+| [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      | ~    | ~              | [x](https://todo.sr.ht/~mariusor/go-activitypub/409)        | [x](https://lists.sr.ht/~mariusor/go-activitypub-dev/%3C13D93DB4-A3C9-4451-8E6A-78158C93A198@mediaformat.org%3E) |
+| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑              | -        | - |
+| [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      | [x](https://github.com/friendica/friendica/issues/15404)    | ☑              | -        | - |
+| [Onepage.pub](https://github.com/evanp/onepage.pub) |  -      |  -      | -    | -              | -        | - |
 
 ## Circlebuilder's Delightful extensive c2s support list
 https://codeberg.org/fediverse/delightful-fediverse-experience/issues/130

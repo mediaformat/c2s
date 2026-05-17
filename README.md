@@ -7,7 +7,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 - [X] Fetch from SharedInbox
 - [x] Post to Outbox
 - [x] Fetch remote `Object` via [proxyURL](https://www.w3.org/TR/activitypub/#proxyUrl)
-- [ ] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)
+- [x] [CIMD](https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/)
 - [ ] ...Stay tuned!
 
 ## Tracking Support 

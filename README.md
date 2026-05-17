@@ -23,6 +23,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑              | -        | - |
 | [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      | [x](https://github.com/friendica/friendica/issues/15404)    | ☑              | -        | - |
 | [Onepage.pub](https://github.com/evanp/onepage.pub) |  ☑      |  ☑      | ☑    | ☑              | -        | - |
+| [WordPress](https://github.com/automattic/wordpress-activitypub) |  ☑      |  ☑      | ☑    | ☑              | ☑        | ☑ |
 
 ## Circlebuilder's Delightful extensive c2s support list
 https://codeberg.org/fediverse/delightful-fediverse-experience/issues/130

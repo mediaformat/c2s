@@ -22,7 +22,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      | ~    | ~              | [x](https://todo.sr.ht/~mariusor/go-activitypub/409)        | [x](https://lists.sr.ht/~mariusor/go-activitypub-dev/%3C13D93DB4-A3C9-4451-8E6A-78158C93A198@mediaformat.org%3E) |
 | [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |  -     | ☑              | -        | - |
 | [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      | [x](https://github.com/friendica/friendica/issues/15404)    | ☑              | -        | - |
-| [Onepage.pub](https://github.com/evanp/onepage.pub) |  ☑      |  ☑      | ☑    | ☑              | -        | - |
+| [Onepage.pub](https://github.com/evanp/onepage.pub) |  ☑      |  ☑      | ☑    | ☑              | [x](https://github.com/evanp/onepage.pub/issues/261)        | - |
 | [WordPress](https://github.com/automattic/wordpress-activitypub) |  ☑      |  ☑      | ☑    | ☑              | ☑        | ☑ |
 
 ## Circlebuilder's Delightful extensive c2s support list

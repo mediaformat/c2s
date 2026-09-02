@@ -20,7 +20,7 @@ A Progressive Web App (PWA) for the ActivityPub API (Client-to-Server API)
 | :---------- | :-----: | :-----: | :--: | :--: | :-------------------: | :------: | :---------: |
 | [Pleroma](https://git.pleroma.social/pleroma/pleroma/)     |  ☑      |  [x](https://git.pleroma.social/pleroma/pleroma/issues/3395)      |   -  | [~](https://git.pleroma.social/pleroma/pleroma/issues/3395)    | ☑              |  [x](https://git.pleroma.social/pleroma/pleroma/issues/3382)       | [x](https://git.pleroma.social/pleroma/pleroma/issues/3384) |
 | [FedBox](https://github.com/go-ap/fedbox)      |  ☑      |  ☑      |   -  | ~    | ~              | [-](https://todo.sr.ht/~mariusor/go-activitypub/409)        | [-](https://lists.sr.ht/~mariusor/go-activitypub-dev/%3C13D93DB4-A3C9-4451-8E6A-78158C93A198@mediaformat.org%3E) |
-| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |   -  |  -     | ☑              | -        | - |
+| [Bonfire](https://github.com/bonfire-networks/bonfire-app/issues/917)     |  ☑      |  ☑      |   -  |  [~](https://github.com/bonfire-networks/bonfire-app/issues/917#issuecomment-3789329319 "Requires special flags")     | ☑              | -        | - |
 | [Friendica](https://github.com/friendica/friendica/)     |  ☑      |  ☑      |   -  | [x](https://github.com/friendica/friendica/issues/15404)    | ☑              | x        | x |
 | [Onepage.pub](https://github.com/evanp/onepage.pub) |  ☑      |  ☑      |   -  | ☑    | ☑              | [x](https://github.com/evanp/onepage.pub/issues/261)        | - |
 | [WordPress](https://github.com/automattic/wordpress-activitypub) |  ☑      |  ☑      |   ☑  | ☑    | ☑              | ☑        | ☑ |

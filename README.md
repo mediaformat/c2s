@@ -30,4 +30,4 @@ https://codeberg.org/fediverse/delightful-fediverse-experience/issues/130
 
 ## Implementation Report
 Official, historic report (last updated 2021)
-https://activitypub.rocks/implementation-report/
+https://web.archive.org/web/20261009171822/https://activitypub.rocks/implementation-report/
